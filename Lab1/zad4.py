@@ -1,4 +1,6 @@
 ruler_lenght = int(input("Length of ruler: "))
+if ruler_lenght > 20:
+    ruler_lenght = 20
 
 marks = "|"
 numbers = "0"
