@@ -9,5 +9,6 @@ def reverse_word(word):
 
     return result
 
+# could be done by [::-1]
 
 print(reverse_word(word_input))

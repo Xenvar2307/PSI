@@ -4,7 +4,7 @@ word_input = input("Podaj słowo:")
 def space_out_word(word):
     result = ""
 
-    for letter in word[1:]:
+    for letter in word[0:]:
         result += " " + letter
 
     result += " "
