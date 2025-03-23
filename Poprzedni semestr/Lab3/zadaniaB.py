@@ -16,7 +16,7 @@ df = pd.DataFrame(X)
 # sns.pairplot(df)  # , kind="reg"
 # plt.show()
 
-sns.set(style="darkgrid")
+sns.set_theme(style="darkgrid")
 
 corr = df.corr()
 

@@ -121,8 +121,8 @@ def zad7():
 
 def zad8():
     df = pd.read_csv("https://github.com/Ulvi-Movs/titanic/raw/main/train.csv")
-    print(df.dropna(axis=1))
-    print(df.dropna(axis=0))
+    print(df.dropna())
+    #print(df.dropna(axis=0))
 
 
 zad8()
