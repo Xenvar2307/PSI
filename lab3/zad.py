@@ -109,4 +109,4 @@ def zad7():
     print (df.corr())
     
 
-zad7()
+zad1_2_3()
