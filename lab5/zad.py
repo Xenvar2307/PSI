@@ -90,9 +90,9 @@ def zad3():
     y_f_lr_2 = f_lr_2(x_tr)
 
     #use sklearn.metrics dla R**2 na przykład
-    print ("Square function R2 score: ",sklmetrics.r2_score(y,f_lr_1(x)))
+    print ("2nd degree function R2 score: ",sklmetrics.r2_score(y,f_lr_1(x)))
 
-    print("Triangle function R2 score: ",sklmetrics.r2_score(y,f_lr_2(x)))
+    print("3rd degree function R2 score: ",sklmetrics.r2_score(y,f_lr_2(x)))
 
 def zad4():  
     # Ładujemy dataset

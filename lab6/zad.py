@@ -132,7 +132,7 @@ def zad3():
     grid_search = GridSearchCV(model, param_space, cv = 5)# jak sie nie poda cv to domyslnie jest 5 fold
     fitted_model = grid_search.fit(X_train, y_train)
 
-    print(f"Best alpha: {grid_search.best_params_}")
+    print(f"Best alpha: {fitted_model.best_params_}")
     print(mean_squared_error(y_test, fitted_model.predict(X_test)))
 
 def zad4():
@@ -152,7 +152,7 @@ def zad4():
     grid_search = GridSearchCV(model, param_space, cv = 5)# jak sie nie poda cv to domyslnie jest 5 fold
     fitted_model = grid_search.fit(X_train, y_train)
 
-    print(f"Best alpha: {grid_search.best_params_}")
+    print(f"Best alpha: {fitted_model.best_params_}")
     print(mean_squared_error(y_test, fitted_model.predict(X_test)))
 
 
