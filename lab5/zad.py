@@ -128,4 +128,4 @@ def zad5():
 
     print(result.summary())
 
-zad5()
+zad1()
