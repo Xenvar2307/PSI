@@ -130,4 +130,4 @@ def zad3():
     plt.legend()
     plt.show()
 
-zad1()
+zad3()
