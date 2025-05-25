@@ -51,7 +51,6 @@ def zad1():
     print("Auto Soft Voting VotingClassifier: ")
     print(auto_voting_classes, f" accur: {accuracy_score(y_test, auto_voting_classes)}")
 
-    
 def zad2():
     X, y = make_classification()
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
@@ -64,7 +63,6 @@ def zad2():
     print(y_test)
     print("ForestClassifier with 50 trees: ")
     print(y_pred, f" accur: {accuracy_score(y_test, y_pred)}")
-
 
 def zad3():
     X, y = make_moons(n_samples=500, noise = 0.2)
