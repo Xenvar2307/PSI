@@ -1,0 +1,15 @@
+{"time":"2025-06-08T17:29:40.1784143+02:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\lukas\\Desktop\\PSI\\wandb\\run-20250608_172939-itahiwmb\\logs\\debug-core.log"}
+{"time":"2025-06-08T17:29:40.5643131+02:00","level":"INFO","msg":"stream: created new stream","id":"itahiwmb"}
+{"time":"2025-06-08T17:29:40.5643131+02:00","level":"INFO","msg":"stream: started","id":"itahiwmb"}
+{"time":"2025-06-08T17:29:40.5643131+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"itahiwmb"}
+{"time":"2025-06-08T17:29:40.5648544+02:00","level":"INFO","msg":"handler: started","stream_id":"itahiwmb"}
+{"time":"2025-06-08T17:29:40.5643131+02:00","level":"INFO","msg":"sender: started","stream_id":"itahiwmb"}
+{"time":"2025-06-08T17:29:40.8868679+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-08T17:29:43.2976806+02:00","level":"INFO","msg":"stream: closing","id":"itahiwmb"}
+{"time":"2025-06-08T17:29:43.2976806+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-08T17:29:43.2976806+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-08T17:29:44.1488458+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-08T17:29:44.5559066+02:00","level":"INFO","msg":"handler: closed","stream_id":"itahiwmb"}
+{"time":"2025-06-08T17:29:44.5559066+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"itahiwmb"}
+{"time":"2025-06-08T17:29:44.5559066+02:00","level":"INFO","msg":"sender: closed","stream_id":"itahiwmb"}
+{"time":"2025-06-08T17:29:44.5570148+02:00","level":"INFO","msg":"stream: closed","id":"itahiwmb"}

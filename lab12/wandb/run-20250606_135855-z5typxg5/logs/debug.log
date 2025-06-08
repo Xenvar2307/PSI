@@ -16,3 +16,10 @@ config: {'_wandb': {}}
 2025-06-06 13:58:56,200 INFO    MainThread:15556 [wandb_run.py:_label_probe_notebook():1309] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 192477: character maps to <undefined>
 2025-06-06 13:58:56,200 INFO    MainThread:15556 [wandb_init.py:init():956] updated telemetry
 2025-06-06 13:58:56,201 INFO    MainThread:15556 [wandb_init.py:init():980] communicating run to backend with 90.0 second timeout
+2025-06-06 13:58:58,654 INFO    MainThread:15556 [wandb_init.py:init():1032] starting run threads in backend
+2025-06-06 13:58:58,800 INFO    MainThread:15556 [wandb_run.py:_console_start():2453] atexit reg
+2025-06-06 13:58:58,800 INFO    MainThread:15556 [wandb_run.py:_redirect():2301] redirect: wrap_raw
+2025-06-06 13:58:58,800 INFO    MainThread:15556 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2025-06-06 13:58:58,801 INFO    MainThread:15556 [wandb_run.py:_redirect():2393] Redirects installed.
+2025-06-06 13:58:58,804 INFO    MainThread:15556 [wandb_init.py:init():1078] run started, returning control to user process
+2025-06-06 13:58:58,805 INFO    MainThread:15556 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend

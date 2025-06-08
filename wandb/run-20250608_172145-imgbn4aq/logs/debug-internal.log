@@ -1,0 +1,15 @@
+{"time":"2025-06-08T17:21:45.7199022+02:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\lukas\\Desktop\\PSI\\wandb\\run-20250608_172145-imgbn4aq\\logs\\debug-core.log"}
+{"time":"2025-06-08T17:21:46.2496624+02:00","level":"INFO","msg":"stream: created new stream","id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:46.2496624+02:00","level":"INFO","msg":"stream: started","id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:46.2496624+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:46.2496624+02:00","level":"INFO","msg":"sender: started","stream_id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:46.2496624+02:00","level":"INFO","msg":"handler: started","stream_id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:46.5594742+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-08T17:21:48.8727828+02:00","level":"INFO","msg":"stream: closing","id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:48.8727828+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-08T17:21:48.8727828+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-08T17:21:49.7011463+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-08T17:21:50.0367082+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:50.0367082+02:00","level":"INFO","msg":"handler: closed","stream_id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:50.0372118+02:00","level":"INFO","msg":"sender: closed","stream_id":"imgbn4aq"}
+{"time":"2025-06-08T17:21:50.0372118+02:00","level":"INFO","msg":"stream: closed","id":"imgbn4aq"}
